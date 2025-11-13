@@ -16,3 +16,15 @@ reasoning - methods of thinking? I hear it a lot, the main backbones of a llm sy
 
 hallucinations - when the llm or some AI system is not following the prompt, this happens? 
 
+prompt - The ways of how the llm system inputs the guided information, based on those prompts, the results were generated, it is how most people interact with recent llms.
+
+AI Agents - An automated software process the tasks, backed by the gen AI promts, and being efficient and save time for some repetitive tasks.
+
+workflow - the chain and lines of how a project works, from start to end, the participants, progress and logics combined.
+
+fine-tuning - changing some parameters, provifing some more focused information, to make the llm being great at a narrower or niche area, like fintunig an existing llm to work better for Kazakh language.
+
+RAG - adding outside information, like connecting internet, to make llm data more accurate, updated.
+
+
+
